@@ -7,6 +7,9 @@ import repository.IGenericRepository;
 
 import java.util.List;
 
+/**
+ * @author thiago silva
+ */
 public class Main {
     public static void main(String[] args) {
         IGenericRepository<Car> repository = new GenericRepositoryImpl<>();
@@ -61,4 +64,9 @@ public class Main {
         for (Car car : allCars)
             System.out.println(car);
     }
+
+    /**
+     * Criar uma annotation chamada Tabela
+     * A tabela vai receber um valor que será o nome da tabela
+     */
 }
