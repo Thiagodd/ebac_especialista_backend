@@ -8,6 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="factorycar" />
     <orderEntry type="module" module-name="mod14-projetoPrincipal" />
+    <orderEntry type="module" module-name="mod17" />
   </component>
 </module>
