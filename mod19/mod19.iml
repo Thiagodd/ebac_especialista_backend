@@ -3,13 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/mod12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reflections/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="mod14-projetoPrincipal" />
-    <orderEntry type="module" module-name="factorycar" />
-    <orderEntry type="module" module-name="mod17" />
   </component>
 </module>
