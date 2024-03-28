@@ -22,7 +22,6 @@ public class MockWomanRepositoryTest {
         Assert.assertEquals(expectedName, persistedPerson.getName());
         Assert.assertEquals(expectedGender, persistedPerson.getGender());
 
-        persistedPerson.printPerson();
     }
 
     @Test
